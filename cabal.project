@@ -1,0 +1,18 @@
+packages: .
+
+source-repository-package
+  type: git
+  location: https://github.com/ekmett/codex/
+  tag: f26dc2476d5b2097482084964663d6c192847976
+  subdir: glow
+
+source-repository-package
+  type: git
+  location: https://github.com/ekmett/codex/
+  tag: f26dc2476d5b2097482084964663d6c192847976
+  subdir: ptrdiff
+
+source-repository-package
+  type: git
+  location: https://github.com/qfpl/reflex-basic-host.git
+  tag: e9cc979c01c1b79fb7a611adf023f05add156149
